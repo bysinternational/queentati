@@ -1,0 +1,203 @@
+#: locale=pt
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Media
+
+### Title
+panorama_3E8084F0_3456_C5C9_41BA_8026A8971ADC.label = Cabine Corredor 4
+panorama_387AE837_3456_4CB7_41B8_C782B070EF2B.label = Cabines - Cabine 1
+panorama_3E804AB7_3456_4C48_41C6_9951940AE8C6.label = Cabines - Cabine 2
+panorama_3E80FDDF_3456_C7F8_41C6_8CB72A497B70.label = Cabines - Cabine 3
+panorama_25909DD2_3457_C3F6_41C4_EED5F4AACE04.label = Cabines - Cabine 4
+panorama_3E803F60_3456_C4C8_41C3_E6D35D3182A0.label = Cabines - Cabine Corredor 4
+panorama_3E80CC19_3456_C47B_41C8_FC579D2EA361.label = Cabines - Cabine Corredor Acesso Escada
+panorama_3E80C967_3456_4CD7_41C6_65576C413334.label = Cabines - Corredor Cabine
+panorama_3E808251_3456_5CCB_41C1_5307428AE9F0.label = Cabines - Corredor Cabine 2
+panorama_3E806907_3456_4C57_41C4_45A9D398CF4F.label = Cabines - Escada Acesso Deck Principal
+panorama_3E8E90ED_3456_7DDB_41A4_367C6E496875.label = Cabines - WC 1
+panorama_3E8093B4_3456_BC48_41BC_B1866D948769.label = Cabines - WC Cabine 2
+panorama_277E5039_34FF_C0B2_41C2_5A0AA129E76B.label = Cabines - WC Cabine 3
+panorama_3E8010A3_3456_BC4F_41C3_066D94E80781.label = Cabines - WC Cabine 4
+panorama_3E822DE0_345B_C7C8_41C2_1425BB2F2C38.label = Deck - Fly Bridge
+panorama_3E8206AE_345A_4459_41C9_50CD140F539D.label = Deck - Fly Bridge 2
+panorama_3E82CFD8_345A_43F9_41BB_07AECEE1F89F.label = Deck - Fly Bridge 3
+panorama_3E82D896_345A_4C49_41C7_14D23D7F6AA7.label = Deck - Fly Bridge 4
+panorama_3E812408_345A_4459_41BA_FC70F41A5ED0.label = Deck Principal - Academia
+panorama_3E802537_3459_C448_419A_F926B99ADC8C.label = Deck Principal - Acesso Cozinha
+panorama_3E807DE6_345A_47C9_41AA_43F08499F850.label = Deck Principal - Acesso Tripulação
+panorama_3E80F74B_345A_44DF_4164_E4F4E0D5F006.label = Deck Principal - Acesso Tripulação 2
+panorama_3E80F043_345A_7CC8_41C8_D8390CB06C18.label = Deck Principal - Acesso Tripulação 3
+panorama_3E809A5D_345A_4CFB_41C8_B292A17E85EC.label = Deck Principal - Acesso Tripulação 4
+panorama_2240228E_37D6_C06E_41BF_D04023329C60.label = Deck Principal - Area Externa - Corredor Esquerdo
+panorama_3E803C43_3456_44CF_41B0_135DA2A76FF0.label = Deck Principal - Closet - Suite
+panorama_3E81962C_3459_C459_41C3_9E20397228BD.label = Deck Principal - Corredor - Suite - Sala Jantar
+panorama_3E828F0C_345A_4459_4178_E46EFDD0A82A.label = Deck Principal - Corredor Acesso Proa - Esquerdo
+panorama_3E8297FB_345B_C3BF_419C_F13AEA69E95E.label = Deck Principal - Corredor Acesso Proa - Esquerdo 3
+panorama_3E80B07A_3459_DCB9_41AC_61459A45C79C.label = Deck Principal - Corredor Cozinha
+panorama_3E812EBB_345A_C5BF_41C6_55B967478709.label = Deck Principal - Corredor Sala de Maquinas e Academia
+panorama_3E810126_345A_5C49_41BB_5BA439BBB1EC.label = Deck Principal - Corredor Sala de Maquinas e Academia 2
+panorama_2642FC0E_3456_406E_41C7_25ABE28DFFDD.label = Deck Principal - Cozinha
+panorama_3E8003F4_345A_43C9_41A7_72FF9369A8E7.label = Deck Principal - Cozinha 2
+panorama_3E859E08_345A_C458_41C9_C2EFA4FF4962.label = Deck Principal - Escada - Acesso Deck de Comando
+panorama_3E8163CB_345A_C3D8_41C9_21316119711D.label = Deck Principal - Escada Acesso - Sala de Maquinas e Academia
+panorama_3E802244_3456_5CC9_41A5_44854DB59FA5.label = Deck Principal - Jantar
+panorama_3E82ACD2_345A_45C9_41C4_FA63CA135F36.label = Deck Principal - Popa
+panorama_3E82C618_345A_4479_41C1_5C7FD0CB6898.label = Deck Principal - Popa 2
+panorama_26DCD35A_346E_40F1_41A6_076908407D95.label = Deck Principal - Praia
+panorama_3E815DB0_345A_4449_41BB_FF3E717A61CB.label = Deck Principal - Sala de Estar 2
+panorama_3E802B40_3459_CCC8_41C1_2369B66081CA.label = Deck Principal - Sala de Jantar 2
+panorama_3E82DA47_345A_4CD7_41C4_B5F46542182B.label = Deck Principal - Sala de Maquinas
+panorama_3E8FE4C6_3456_45C9_41C5_4E8F5AE23BF3.label = Deck Principal - Suite Master
+panorama_3E802DA9_3456_4458_4166_4E2E21290A26.label = Deck Principal - Suite Master ft 2
+panorama_3E8FC15E_3459_DCF9_4196_E45B6FC4B8B5.label = Deck Principal - WC Corredor
+panorama_3E8117EB_345A_43D8_41B4_1719173C0E72.label = Deck Principal - WC Corredor - Sala de Maquinas
+panorama_3E8FE396_3456_7C49_41C2_3E7FB93115E4.label = Deck Principal - WC Suite Master
+panorama_3E81EF9B_345A_C47F_41C5_32E1FF257907.label = Deck Principal - Área Externa
+panorama_3E81A6AF_345A_C458_41C3_D55F082549C6.label = Deck Principal - Área Externa
+panorama_3E81B8D9_345A_CDF8_41AC_314BAD93D1E5.label = Deck Principal - Área Externa - Acesso a Escada
+panorama_3E8121E6_345A_FFC8_41C2_311516FB64BA.label = Deck Principal - Área Externa 3
+panorama_3E8093CA_345A_43D9_41B5_568EF1022BA6.label = Deck Principal Sala de Estar
+panorama_3E858700_345A_C448_41C6_7755140146FC.label = Deck de Comando - Corredor
+panorama_22DDEC51_37A9_C0F2_41BB_DFBBF1624DD1.label = Deck de Comando - Corredor 2
+panorama_3E83D9A0_345B_CC49_4179_F85BDE39081C.label = Deck de Comando - Corredor Direito - Proa
+panorama_226135A1_37A9_C053_41AE_DE5960C9C77C.label = Deck de Comando - Corredor Suite
+panorama_3E82452A_345A_C459_41B7_1A0F176A166A.label = Deck de Comando - Escada Acesso - Lazer
+panorama_3E858AB3_345A_4C48_41BD_E03B0B36E709.label = Deck de Comando - Escada Acesso Deck Principal
+panorama_3E83B0C5_345B_DDCB_41C0_181C2EB59C2F.label = Deck de Comando - Sala de Comando
+panorama_3E85534D_345A_5CDB_41BF_F5C0251726A1.label = Deck de Comando - Sala de Estar
+panorama_21ED1AD3_3456_C1F6_41C0_074A2AF26A99.label = Deck de Comando - Suite
+panorama_3E85A1E9_345A_BFDB_4181_4C1890323A7D.label = Deck de Comando - WC Corredor
+panorama_3E825965_345A_CCCB_41C9_C61875916934.label = Deck de Comando - WC Suite
+panorama_3E855C15_345A_4448_41C2_C01792E19979.label = Deck de Comando - Área Externa
+panorama_3E823207_345B_FC57_41C2_EFEDC4B22FEF.label = Deck de Comando - Área Externa - Proa
+panorama_3E83CB02_345B_CC49_41C3_508E0B23C69E.label = Deck de Comando - Área Externa - Proa - 2
+panorama_3E83C44F_345B_C4D8_41B3_252701B7A4E9.label = Deck de Comando - Área Externa - Proa - 3
+panorama_3E852577_345A_44B7_41B9_2DCDF8E2033E.label = Deck de Comando - Área Externa 2
+panorama_3E857EB6_345A_4449_416F_8807C190F358.label = Deck de Comando - Área Externa 3
+panorama_3E807ABF_3456_4DB7_41BB_BDE4D47F8FF3.label = Escada Acesso - Deck Principal
+panorama_3E85416D_345A_7CDB_41C4_21BD9B6E0C0F.label = Fly Solario
+panorama_3E82FA78_345A_4CB8_41C1_2A6998B50BEC.label = Fly Solario 2
+panorama_3E822315_345A_5C4B_41A5_C3B80389C25A.label = Fly Solario 3
+panorama_3E82CBFF_345A_43B8_41AD_FEB45B973730.label = Fly Solario 4
+
+## Skin
+
+### Button
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_pt.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_pt.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_pt.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_pt.jpg
+Image_2F4CDC21_37F6_4052_41B1_FA7E40CB0635_mobile.url = skin/Image_2F4CDC21_37F6_4052_41B1_FA7E40CB0635_mobile_pt.png
+Image_2F4CDC21_37F6_4052_41B1_FA7E40CB0635.url = skin/Image_2F4CDC21_37F6_4052_41B1_FA7E40CB0635_pt.png
+
+### Multiline Text
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.93vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.93vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5099999999999993vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.93vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.93vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5099999999999993vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;"> </SPAN><SPAN STYLE="font-size:1.53vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;"> </SPAN><SPAN STYLE="font-size:1.53vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999991vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">bys - GALERIA DE FOTOS:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">bys - GALERIA DE FOTOS:</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vh;font-family:'Bebas Neue Bold';">real estate agent</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vh;font-family:'Bebas Neue Bold';">real estate agent</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Walk Thru - Queen Tati
+
+## VR Menu
+
+### Text
+MenuItem_14A86588_34FB_C052_4198_DD9331D7C341.label = Cabine Corredor 4
+MenuItem_14AB0589_34FB_C052_41C8_1B5EDDA1696C.label = Cabines - Cabine 1
+MenuItem_14AB6588_34FB_C052_41BD_F9A08E4E49D5.label = Cabines - Cabine 2
+MenuItem_14A8F588_34FB_C052_41AF_78ED97B36271.label = Cabines - Cabine 3
+MenuItem_14A89589_34FB_C052_419D_8FEE7D1C7A08.label = Cabines - Cabine 4
+MenuItem_14A82589_34FB_C052_41C7_AB1AAAFAC7C6.label = Cabines - Cabine Corredor 4
+MenuItem_14ABA588_34FB_C052_41BE_88CA27DCE218.label = Cabines - Cabine Corredor Acesso Escada
+MenuItem_14AB4588_34FB_C052_41BB_8F00ABAAEDE8.label = Cabines - Corredor Cabine
+MenuItem_14AB1588_34FB_C052_41B0_518A63882186.label = Cabines - Corredor Cabine 2
+MenuItem_14A99587_34FB_C05E_41C6_5D2BBA9FB1A2.label = Cabines - Escada Acesso Deck Principal
+MenuItem_14A86587_34FB_C05E_41C3_7062343A6D12.label = Cabines - WC 1
+MenuItem_14A8B589_34FB_C052_41AC_A1750856F8FE.label = Cabines - WC Cabine 2
+MenuItem_14AB4588_34FB_C052_41A3_4E5FDC2F9C0A.label = Cabines - WC Cabine 3
+MenuItem_14A96587_34FB_C05E_41CA_4DB30C4E0E91.label = Cabines - WC Cabine 4
+MenuItem_14A84589_34FB_C052_41A9_920052DF37C7.label = Deck - Fly Bridge
+MenuItem_14A81587_34FB_C05E_41C5_80528BD4F579.label = Deck - Fly Bridge 2
+MenuItem_14A9B587_34FB_C05E_41B7_96ECE4B5615A.label = Deck - Fly Bridge 3
+MenuItem_14AB2589_34FB_C052_419C_8677253034E6.label = Deck - Fly Bridge 4
+MenuItem_14A88588_34FB_C052_41BA_066C8149EFB6.label = Deck Principal - Academia
+MenuItem_14A84587_34FB_C05E_41C7_F65D1A750BD6.label = Deck Principal - Acesso Cozinha
+MenuItem_14ABF588_34FB_C052_41B2_CF77F565CA3B.label = Deck Principal - Acesso Tripulação
+MenuItem_14AB5587_34FB_C05D_419F_164BAD03BFC5.label = Deck Principal - Acesso Tripulação 2
+MenuItem_14AB0587_34FB_C05E_41C8_4CC458E59295.label = Deck Principal - Acesso Tripulação 3
+MenuItem_14A8B587_34FB_C05E_41C5_C7C9EBEBB4B4.label = Deck Principal - Acesso Tripulação 4
+MenuItem_14A88589_34FB_C052_41C9_025D40665473.label = Deck Principal - Area Externa - Corredor Esquerdo
+MenuItem_14A98587_34FB_C05E_41C5_E687DC4052A4.label = Deck Principal - Closet - Suite
+MenuItem_14ABE588_34FB_C052_41C5_470EF15F2553.label = Deck Principal - Corredor - Suite - Sala Jantar
+MenuItem_14A9C587_34FB_C05E_41C5_D514836D4A19.label = Deck Principal - Corredor Acesso Proa - Esquerdo
+MenuItem_14AB1589_34FB_C052_4187_47F4781F6574.label = Deck Principal - Corredor Acesso Proa - Esquerdo 3
+MenuItem_14A9D587_34FB_C05E_41C3_BD93CDDDA092.label = Deck Principal - Corredor Cozinha
+MenuItem_14A8E587_34FB_C05E_41A1_57AFA1F31FCB.label = Deck Principal - Corredor Sala de Maquinas e Academia
+MenuItem_14A8B588_34FB_C052_4188_80D525C6F746.label = Deck Principal - Corredor Sala de Maquinas e Academia 2
+MenuItem_14AB5588_34FB_C052_41C1_949CDC2D59A3.label = Deck Principal - Cozinha
+MenuItem_14A8C588_34FB_C052_4142_6E162B9305A0.label = Deck Principal - Cozinha 2
+MenuItem_14AB7588_34FB_C052_41CB_40F53C96335F.label = Deck Principal - Escada - Acesso Deck de Comando
+MenuItem_14AB7588_34FB_C052_41BC_71F3DA746485.label = Deck Principal - Escada Acesso - Sala de Maquinas e Academia
+MenuItem_14A9F587_34FB_C05E_41C3_FCAB9BA05CD2.label = Deck Principal - Jantar
+MenuItem_14A8D587_34FB_C05E_41C4_CBB6E87AA189.label = Deck Principal - Popa
+MenuItem_14A9E587_34FB_C05E_4195_04F330A50A6D.label = Deck Principal - Popa 2
+MenuItem_14A8E588_34FB_C052_41B3_D79F6021B503.label = Deck Principal - Praia
+MenuItem_14ABD588_34FB_C052_41C9_64DC5182D8B6.label = Deck Principal - Sala de Estar 2
+MenuItem_14A89587_34FB_C05E_41C6_7A4AC02E4FA4.label = Deck Principal - Sala de Jantar 2
+MenuItem_14AB5589_34FB_C052_41BD_64AF8DBBD0F7.label = Deck Principal - Sala de Maquinas
+MenuItem_14A85589_34FB_C052_41BD_5BC7B49037D1.label = Deck Principal - Suite Master
+MenuItem_14A89588_34FB_C052_41C1_5F3AF7A596D6.label = Deck Principal - Suite Master ft 2
+MenuItem_14A8F587_34FB_C05E_41C2_BF090A01B6B4.label = Deck Principal - WC Corredor
+MenuItem_14ABA588_34FB_C052_41C6_7BC394A9413F.label = Deck Principal - WC Corredor - Sala de Maquinas
+MenuItem_14A85587_34FB_C05E_41B5_6BF4E9155C53.label = Deck Principal - WC Suite Master
+MenuItem_14A87587_34FB_C05E_41C9_AC8A6B83B042.label = Deck Principal - Área Externa
+MenuItem_14A88587_34FB_C05E_41BF_36404481D47A.label = Deck Principal - Área Externa
+MenuItem_14AB3589_34FB_C052_41C8_7536086CA2A6.label = Deck Principal - Área Externa - Acesso a Escada
+MenuItem_14AB0588_34FB_C052_41A9_4E54D09C0FC8.label = Deck Principal - Área Externa 3
+MenuItem_14AB6588_34FB_C052_41B7_3CF020C4F754.label = Deck Principal Sala de Estar
+MenuItem_14ABB588_34FB_C052_41A1_2E62383A42AD.label = Deck de Comando - Corredor
+MenuItem_14AB9588_34FB_C052_41C2_C7947F546768.label = Deck de Comando - Corredor 2
+MenuItem_14ABB588_34FB_C052_419C_5E542A9C8C90.label = Deck de Comando - Corredor Direito - Proa
+MenuItem_14AB2588_34FB_C052_41C4_EA62C080AAFA.label = Deck de Comando - Corredor Suite
+MenuItem_14A87589_34FB_C052_41C3_EC958EBF04A4.label = Deck de Comando - Escada Acesso - Lazer
+MenuItem_14A8A589_34FB_C052_41A3_2610486B2568.label = Deck de Comando - Escada Acesso Deck Principal
+MenuItem_14A86589_34FB_C052_41C3_8DA914277F76.label = Deck de Comando - Sala de Comando
+MenuItem_14AB3588_34FB_C052_41C9_8451D951F023.label = Deck de Comando - Sala de Estar
+MenuItem_14A8A588_34FB_C052_41C4_A85E376B99A1.label = Deck de Comando - Suite
+MenuItem_14AB9588_34FB_C052_41C5_2AD84BEDA9D3.label = Deck de Comando - WC Corredor
+MenuItem_14A80587_34FB_C05E_41A9_892C0CE0A62F.label = Deck de Comando - WC Suite
+MenuItem_14A83587_34FB_C05E_41B9_C91BE86E027F.label = Deck de Comando - Área Externa
+MenuItem_14AB2587_34FB_C05E_41C8_C16557467DA8.label = Deck de Comando - Área Externa - Proa
+MenuItem_14A9A587_34FB_C05E_41B6_FBA01C92441C.label = Deck de Comando - Área Externa - Proa - 2
+MenuItem_14A8E589_34FB_C052_41C8_36FE94176E0F.label = Deck de Comando - Área Externa - Proa - 3
+MenuItem_14A97586_34FB_C05E_419F_786A7D02F682.label = Deck de Comando - Área Externa 2
+MenuItem_14A8C589_34FB_C052_41AA_C1DF38B0D54F.label = Deck de Comando - Área Externa 3
+MenuItem_14A8A587_34FB_C05E_41BA_3250267A4B31.label = Escada Acesso - Deck Principal
+MenuItem_14AB8588_34FB_C052_41B7_C9BFEF07F845.label = Fly Solario
+MenuItem_14ABC588_34FB_C052_41B5_B890633F0093.label = Fly Solario 2
+MenuItem_14AB1587_34FB_C05E_41C6_532207D8C489.label = Fly Solario 3
+MenuItem_14A82587_34FB_C05E_41C7_97F6346AE9AC.label = Fly Solario 4
+Menu_2785D3BD_35D6_47B2_41C3_5B2EE0EB1DA5.label = Media
